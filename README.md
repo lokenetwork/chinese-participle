@@ -5,6 +5,7 @@ The all code is write in clang.And the dictionary is store in Redis.
 Redis dictionary format is as below:
 
 set 户 '{"0":"户外","1":"户型"}'
+
 set 背 '{"0":"背包","1":"背景"}'
 
 as you see,The first chinese word is the key of Redis.
