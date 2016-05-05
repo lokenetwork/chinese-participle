@@ -12,6 +12,6 @@ as you see,The first chinese word is the key of Redis.
 
 And the most process logic is in the "main.c".
 
-These are some picture for project.
+This is a picture of my pariticiple project.
 
  ![image](https://github.com/lokenetwork/chinese-participle/blob/master/demo-pictures/chinese-participle.png)
